@@ -18,8 +18,8 @@
     </description>
 
     <modules>
-        <module>Client</module>
-        <module>Server</module>
+        <module>echo-client</module>
+        <module>echo-server</module>
     </modules>
 
     <properties>
